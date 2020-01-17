@@ -1,0 +1,17 @@
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.exe
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.csprojAssemblyReference.cache
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.AssemblyInfoInputs.cache
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.AssemblyInfo.cs
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.deps.json
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.runtimeconfig.json
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.runtimeconfig.dev.json
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\ChuckAPI2.pdb
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.csproj.CopyComplete
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\obj\Debug\netcoreapp3.1\ChuckAPI2.pdb
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\opilane\Projects\ChuckAPI2\ChuckAPI2\bin\Debug\netcoreapp3.1\Nancy.dll
